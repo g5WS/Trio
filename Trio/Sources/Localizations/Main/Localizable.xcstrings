@@ -198063,6 +198063,9 @@
         }
       }
     },
+    "Reduced" : {
+
+    },
     "Reduced Bolus" : {
       "comment" : "For the  Bolus View pop-up",
       "localizations" : {
@@ -220399,6 +220402,9 @@
           }
         }
       }
+    },
+    "Standard" : {
+
     },
     "start" : {
       "localizations" : {
